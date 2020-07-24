@@ -4,7 +4,7 @@
   "description": "Hello World sample app",
   "main": "index.js",
   "publishConfig": {
-    "registry": "http://18.191.233.208:8081/repository/DeployToS3/"
+    "registry": "http://3.128.135.88:8008/repository/lambdarepo/"
   },
   "scripts": {
     "start": "node index.js",
